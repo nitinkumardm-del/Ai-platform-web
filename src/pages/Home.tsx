@@ -15,7 +15,7 @@ export default function Home() {
         >
           AI Editing Made Simple
         </motion.h1>
-        <p className="text-lg mb-8 max-w-2xl mx-auto">
+        {/* <p className="text-lg mb-8 max-w-2xl mx-auto">
           Enhance your content with the power of AI. Fast, easy, and reliable.
         </p>
         <div className="flex justify-center gap-3">
@@ -31,7 +31,7 @@ export default function Home() {
           >
             Learn More
           </Link>
-        </div>
+        </div> */}
       </section>
 
       {/* Features */}
